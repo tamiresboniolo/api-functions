@@ -10,5 +10,4 @@ const fetchData = async () => {
     result.textContent = error.response.data
   }
 }
-
 fetchData()
